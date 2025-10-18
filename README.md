@@ -1,2 +1,3 @@
 # Pizza-sales1----sql-project
-This is my first repository.
+This is my 1st Git Repository.
+Author- Sadhana
